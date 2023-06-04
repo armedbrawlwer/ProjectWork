@@ -1,2 +1,3 @@
 # ProjectWork
-This repositry contains the group project
+bloggo.c contains the source code of application
+logo.txt contains the logo
